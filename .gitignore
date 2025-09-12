@@ -1,8 +1,8 @@
 # Ignore everything
 *
 
-# But not these files...
-!.gitignore
+# Except these files
+!source/
 !source/MyInputDelegate.mc
 !source/WeeklyApp.mc
 !source/WeeklyView.mc

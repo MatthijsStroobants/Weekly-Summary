@@ -2,6 +2,8 @@
 *
 
 # Except these files
+!.
+!README.md
 !source/
 !source/MyInputDelegate.mc
 !source/WeeklyApp.mc

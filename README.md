@@ -17,7 +17,7 @@ It displays **bar charts** of your **weekly distance (km)** and **time (hours)**
 
 ## Garmin IQ
 
-This app is available in the [Garmin Connect IQ Store](#) *(https://apps.garmin.com/apps/b5a011ff-d53a-40b6-ba03-cae6b2e3385c)* for free. 
+This app is available in the [Garmin Connect IQ Store](https://apps.garmin.com/apps/b5a011ff-d53a-40b6-ba03-cae6b2e3385c) for free. 
 
 ---
 
